@@ -1,0 +1,21 @@
+{
+  "name": "huk",
+  "version": "0.0.1",
+  "description": "bitbucket api client ",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "bitbucket",
+    "api"
+  ],
+  "author": "Dhi Aurrahman <diorahman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.36.0",
+    "zombie": "^2.0.0-alpha31",
+    "open": "0.0.5",
+    "express": "^4.3.1"
+  }
+}
